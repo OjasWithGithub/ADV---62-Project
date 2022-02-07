@@ -1,0 +1,41 @@
+body{
+text-align:center;
+background-color: dodgerblue;
+}
+.carousel-inner p {
+margin-bottom: 15px;
+margin-top: 15px;
+color: white;
+font-size: 20px;
+}
+#myCarousel{
+background-color: red;
+}
+.img-responsive{
+height:300px;
+margin-top: 35px;
+}
+.img2 {
+height: 200px;
+width: 300px;
+}
+img {
+height: 300px;
+width: 350px;
+}
+h1{
+font-size: 50px;
+color: black
+}
+h2{
+font-size: 30px;
+color: black
+}
+p{
+font-size: 20px;
+color: black
+}
+menu {
+background-color: orange;
+color: black;
+}
